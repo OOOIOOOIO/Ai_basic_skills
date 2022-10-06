@@ -4,3 +4,6 @@
 ### Using Jupyter Notebook
 > Numpy basic   
 > Pandas basic   
+
+
+![image](https://user-images.githubusercontent.com/74396651/194217334-c91d49f6-59f9-4580-9a7b-968ba8fc7b89.png)
